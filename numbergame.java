@@ -38,7 +38,7 @@ public static void main(String[] args)
                 correct = true;
             }
         }
-System.exit(0);
+        System.exit(0);
 }
 
 }
